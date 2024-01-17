@@ -39,7 +39,7 @@ I am a Python Backend Developer):
 </a>
 
 <a href="https://github.com/abstract-333">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstract-333&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstract-333&layout=compact&theme=tokyonight&repo=github-readme-stats" />
 </a>
 
 
