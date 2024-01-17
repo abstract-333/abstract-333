@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 My name is Bashar and am a Python developer.    
 
 ![](https://img.shields.io/badge/PYTHON-blue)
+![](https://img.shields.io/badge/Flutter-blue)
 ![](https://img.shields.io/badge/SQL-blue)
 
 
