@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Vladislav and am a Python developer.    
+My name is Bashar and am a Python developer.    
 
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/SQL-blue)
@@ -33,11 +33,10 @@ My name is Vladislav and am a Python developer.
 
 <a href="https://github.com/abstract-333">
 </a>
-<!--
+
 <a href="https://github.com/abstract-333">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstract-333&layout=compact&theme=tokyonight" />
 </a>
--->
 
 
 ![](https://komarev.com/ghpvc/?username=Xewus)
