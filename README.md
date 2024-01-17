@@ -33,5 +33,11 @@ My name is Vladislav and am a Python developer.
 
 <a href="https://github.com/abstract-333">
 </a>
+<!--
+<a href="https://github.com/abstract-333">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstract-333&layout=compact&theme=tokyonight" />
+</a>
 -->
+
+
 ![](https://komarev.com/ghpvc/?username=Xewus)
