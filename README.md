@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Vladislav and am a Python developer.    
+
+![](https://img.shields.io/badge/PYTHON-blue)
+![](https://img.shields.io/badge/SQL-blue)
+
+
+![](https://img.shields.io/badge/FastAPI-green)
+![](https://img.shields.io/badge/Flask-green)
+
+
+![](https://img.shields.io/badge/-SQLAlchemy-orange)
+
+
+![](https://img.shields.io/badge/-Docker-red)
+![](https://img.shields.io/badge/-Linux-red)
+
+
+<a href="https://github.com/abstract-333">
+</a>
+
