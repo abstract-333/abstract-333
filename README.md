@@ -43,4 +43,6 @@ I am a Python Backend Developer):
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=abstract-333)
+[![Top Langs](https://komarev.com/ghpvc/?username=abstract-333)](https://github.com/anuraghazra/github-readme-stats)
+
+
