@@ -25,7 +25,9 @@ My name is Bashar and am a Python developer.
 ![](https://img.shields.io/badge/Flask-green)
 
 
-![](https://img.shields.io/badge/-SQLAlchemy-orange)
+![](https://img.shields.io/badge/-SQLAlchemy-yellow)
+![](https://img.shields.io/badge/-PostgreSQL-yellow)
+![](https://img.shields.io/badge/-MySQL-yellow)
 
 
 ![](https://img.shields.io/badge/-Docker-red)
