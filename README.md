@@ -34,3 +34,4 @@ My name is Vladislav and am a Python developer.
 <a href="https://github.com/abstract-333">
 </a>
 
+![](https://komarev.com/ghpvc/?username=Xewus)
