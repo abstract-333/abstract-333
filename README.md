@@ -1,4 +1,4 @@
-# Hi there ✨
+# Hi ✨
 
 <!--
 **abstract-333/abstract-333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,6 @@ I am a Python Backend Developer):
 ![](https://img.shields.io/badge/Flutter-blue)
 ![](https://img.shields.io/badge/SQL-blue)
 
-
 ![](https://img.shields.io/badge/FastAPI-green)
 ![](https://img.shields.io/badge/Flask-green)
 
@@ -33,6 +32,7 @@ I am a Python Backend Developer):
 
 ![](https://img.shields.io/badge/-Docker-red)
 ![](https://img.shields.io/badge/-Linux-red)
+![](https://img.shields.io/badge/-Git-red)
 
 
 <a href="https://github.com/abstract-333">
