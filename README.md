@@ -1,4 +1,4 @@
-<h2>Hi there 👋<h2/>
+<bold>Hi there 👋<bold/>
 
 <!--
 **abstract-333/abstract-333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<bold>My name is Bashar,<bold/>    
-<bold>I am a Python Backend Developer):<bold/>
+<strong>My name is Bashar,<strong/>    
+<strong>I am a Python Backend Developer):<strong/>
 
 ![](https://img.shields.io/badge/Python-blue)
 ![](https://img.shields.io/badge/Flutter-blue)
