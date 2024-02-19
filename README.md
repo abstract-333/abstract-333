@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### My name is _Bashar_ _Hasan_, also known as abstract-333   
+#### My name is _Bashar_ _Hasan_, also known as abstract-333 💀   
 #### I am a Python Backend Developer ^_^
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,redis,postgresql,mysql,git,docker,flutter,golang,cpp,html,css,js&perline=7)](https://skillicons.dev)
