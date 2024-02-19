@@ -17,22 +17,8 @@ Here are some ideas to get you started:
 My name is Bashar,    
 I am a Python Backend Developer):
 
-![](https://img.shields.io/badge/Python-blue)
-![](https://img.shields.io/badge/Flutter-blue)
-![](https://img.shields.io/badge/SQL-blue)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,redis,postgresql,mysql,git,docker,flutter,golang,cpp,html,css,js&perline=7)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/FastAPI-green)
-![](https://img.shields.io/badge/Flask-green)
-
-
-![](https://img.shields.io/badge/-SQLAlchemy-yellow)
-![](https://img.shields.io/badge/-PostgreSQL-yellow)
-![](https://img.shields.io/badge/-MySQL-yellow)
-
-
-![](https://img.shields.io/badge/-Docker-red)
-![](https://img.shields.io/badge/-Linux-red)
-![](https://img.shields.io/badge/-Git-red)
 
 
 <a href="https://github.com/abstract-333">
