@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### My name is _Bashar_ _Hasan_, also known as abstract-333 💀   
 #### I am a Python Backend Developer ^_^<br><br>
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,githubactions,ddd,flask,redis,postgres,mysql,mongodb,git,docker,nginx,sentry,dart,flutter&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,githubactions,flask,redis,postgres,mysql,mongodb,git,docker,nginx,sentry,dart,flutter&perline=7)](https://skillicons.dev)
 
 
 <br>
