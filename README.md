@@ -28,16 +28,6 @@ A citizen of the world, but my heart is forever tied to my homelands 💙💛.
 
 I believe in making everything good and beautiful. I put my heart into my work, ensuring that every piece of code, every system, and every design is crafted with love and attention to detail. I take pride in creating not just functional solutions, but beautiful ones as well.
 
-## My Mission
-
-As a proud **Ukrainian-Syrian** developer, I aim to combine innovative thinking with cutting-edge technologies to create impactful solutions. My interests lie in:
-
-- **Building highly efficient backend systems.**
-- **Leveraging advanced database technologies** to store and manage data effectively.
-- **Embracing modern architectural patterns** like DDD to ensure clarity and scalability in complex systems.
-- **Promoting best practices in testing and automation** to enhance software quality.
-- **Applying algorithmic knowledge** to craft optimized and intelligent solutions.
-
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,githubactions,flask,redis,postgres,mysql,mongodb,git,docker,nginx,sentry,dart,flutter&perline=7)](https://skillicons.dev)
 
