@@ -7,8 +7,6 @@ A citizen of the world, but my heart is forever tied to my homelands 💙💛.
 
 ## About Me
 
-🌐 **Ukrainian by heart, Syrian by heritage, global by vision.** Proud to represent both of my beautiful countries on the global tech stage.
-
 💻 **Backend Expertise:** I specialize in crafting robust and scalable systems using Python frameworks like **FastAPI**.
 
 ⚡ **Tech Interests:** Actively exploring technologies such as:
