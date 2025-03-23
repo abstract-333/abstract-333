@@ -1,8 +1,6 @@
-# Bashar Hasan (abstract-333) - Python Backend Developer
+# Alexander Sidorin (abstract-333)
 
-Hello! I'm Bashar Hasan, also known as **abstract-333** 💀
-
-I am a passionate **Python Backend Developer** from both **Ukraine** 🇺🇦 and **Syria** <br>
+I am a passionate **Software Engineer**, or _**NOT ):**_. <br>
 A citizen of the world, but my heart is forever tied to my homelands 💙💛.
 
 ## About Me
