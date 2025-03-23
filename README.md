@@ -1,28 +1,48 @@
 # Alexander Sadyrin 
-I am a passionate **Software Engineer**, or _**NOT ):**_ <br>
-A citizen of the world, but my heart is forever tied to my homelands 💙💛.
+🚀 **Software Engineer | NOT** <br>
+🌍 Citizen of the world, but my heart will always belong to my homelands 💙💛 <br>
+✨ I believe in making everything good and beautiful. <br>
 
-## About Me
 
-💻 **Backend Expertise:** I specialize in crafting robust and scalable systems using Python frameworks like **FastAPI**.
+## 🔥 Tech Stack & Interests
 
-⚡ **Tech Interests:** Actively exploring technologies such as:
+💻 Backend Engineering:
 
-- **Databases:** PostgreSQL, MySQL, MongoDB.
-- **Event-driven architecture:** Kafka.
-- **Domain-Driven Design (DDD):** A methodology I enjoy applying to build meaningful, scalable systems.
-- **Design Patterns:** I explore and implement various design patterns like Singleton, Factory, Observer, and Strategy to create maintainable and scalable solutions.
+    Python enthusiast 🐍 & Building with FastAPI & Litestar
 
-✅ **Quality Assurance:** Strong advocate for writing comprehensive tests to ensure code reliability and maintainability.
+    Strong grasp of Domain-Driven Design (DDD) for structuring complex systems and aligning software architecture with business goals
 
-⚙️ **CI/CD:** Experienced with modern CI/CD practices to automate, test, and deploy code efficiently.
+    Exploring & applying design patterns (Singleton, Factory, Observer, Strategy) to create scalable, maintainable systems
 
-🔢 **Complexity Theory & Algorithms:** Proficient in understanding and applying algorithms to optimize performance and solve challenging computational problems.
+📊 Databases:
 
-## About My Work
+    Deep experience with PostgreSQL & MongoDB
 
-I believe in making everything good and beautiful. I put my heart into my work, ensuring that every piece of code, every system, and every design is crafted with love and attention to detail. I take pride in creating not just functional solutions, but beautiful ones as well.
+    Efficient query optimization & schema design
 
+📡 Event-Driven Architecture:
+
+    Kafka for real-time, distributed systems
+
+🛠 DevOps & Tooling:
+
+    Docker & Docker-Compose for containerized workflows
+
+    CI/CD pipelines with GitHub Actions
+
+    Ruff & Uv for fast, efficient Python development
+
+📱 Mobile & Cross-Platform:
+
+    Experience with Dart & Flutter for modern, performant applications
+
+🧪 Quality & Performance:
+
+    Writing comprehensive tests to ensure code reliability
+
+    Strong focus on algorithmic efficiency & complexity optimization
+
+Always exploring new technologies, refining best practices, and pushing boundaries with an engineering mindset. 🚀 
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,githubactions,flask,redis,postgres,mysql,mongodb,git,docker,nginx,sentry,dart,flutter&perline=7)](https://skillicons.dev)
 
