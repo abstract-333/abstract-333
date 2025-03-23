@@ -1,5 +1,4 @@
-# Alexander Sidorin (abstract-333)
-
+# Alexander Sadyrin 
 I am a passionate **Software Engineer**, or _**NOT ):**_ <br>
 A citizen of the world, but my heart is forever tied to my homelands 💙💛.
 
