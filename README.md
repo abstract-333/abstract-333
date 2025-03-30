@@ -44,12 +44,7 @@
 
 Always exploring new technologies, refining best practices, and pushing boundaries with an engineering mindset. 🚀 
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,githubactions,flask,redis,postgres,mysql,mongodb,git,docker,nginx,sentry,dart,flutter&perline=7)](https://skillicons.dev)
-
-
-<br>
-
-
+![Tech Stack](https://skillicons.dev/icons?i=fastapi,django,flutter,py,dart,java,go,postgres,mysql,redis,mongodb,git,githubactions,docker,nginx&theme=dark&perline=5)
 <a href="https://github.com/abstract-333">
 </a>
 
