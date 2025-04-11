@@ -8,7 +8,7 @@
 
 💻 Backend Engineering:
 
-    Python enthusiast 🐍 & Building with FastAPI & Litestar
+    Python enthusiast 🐍 & Building with FastAPI
 
     Strong grasp of Domain-Driven Design (DDD) for structuring complex systems and aligning software architecture with business goals
 
