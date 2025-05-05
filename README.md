@@ -20,10 +20,6 @@
 
     Efficient query optimization & schema design
 
-📡 Event-Driven Architecture:
-
-    Kafka for real-time, distributed systems
-
 🛠 DevOps & Tooling:
 
     Docker & Docker-Compose for containerized workflows
@@ -36,13 +32,26 @@
 
     Experience with Dart & Flutter for modern, performant applications
 
-🧪 Quality & Performance:
 
-    Writing comprehensive tests to ensure code reliability
+---
 
-    Strong focus on algorithmic efficiency & complexity optimization
+## 🧙‍♂️ Featured Project: Phoenician Transliteration Tool
 
-Always exploring new technologies, refining best practices, and pushing boundaries with an engineering mindset. 🚀 
+🧭 **[Phoenician Transliteration Tool](https://abstract-333.github.io/phoenician-transliterator/)**  
+A web app that converts Arabic or English text into the ancient Phoenician script.
+
+- Supports both Arabic and English input  
+- Auto language detection & validation  
+- Built with **React**, **Vite**, **TailwindCSS**  
+- Inspired by the legacy of the seafaring Phoenicians  
+- Includes a modern nod to **Tyrian Purple** in its design  
+
+💬 *Built out of deep respect for our ancestors — preserving and celebrating cultural heritage through code.*
+
+🔗 [Source Code](https://github.com/abstract-333/phoenician-transliterator)
+
+---
+
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,django,flutter,python,dart,java,cpp,cs,golang,postgresql,mysql,mariadb,redis,mongodb,sqlalchemy,git,githubactions,docker,nginx,swagger,opensource&perline=7)
 <a href="https://github.com/abstract-333">
