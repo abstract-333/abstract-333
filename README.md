@@ -5,7 +5,7 @@
 🐥 Interested in 📜 History, 📈 Economics and 🎧 Music <br>
 
 
-## 🔥 Tech Stack & Interests
+## 🔥 R U L E S
 
 💻 Backend Engineering:
 
