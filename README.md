@@ -2,35 +2,30 @@
 🚀 **Software Engineer** <br>
 🌍 Citizen of the world, but my heart will always belong to my homelands 💙💛 <br>
 ✨ I believe in making everything good and beautiful. <br>
+🐥 Interested in 📜 History, 📈 Economics and 🎧 Music <br>
 
 
 ## 🔥 Tech Stack & Interests
 
 💻 Backend Engineering:
 
-    Python enthusiast 🐍 & Building with FastAPI
+    Add tests, implement TDD (yeah, it's tough on the backend — feels more frontend-y sometimes)
 
-    Strong grasp of Domain-Driven Design (DDD) for structuring complex systems and aligning software architecture with business goals
-
-    Exploring & applying design patterns (Singleton, Factory, Observer, Strategy) to create scalable, maintainable systems
+    DDD for structuring complexity and aligning code with real-world logic
 
 📊 Databases:
 
-    Deep experience with PostgreSQL & MongoDB
-
-    Efficient query optimization & schema design
+    PostgreSQL & MongoDB — but hey, don’t go wild adding constraints and `NOT NULL` everywhere 😅
 
 🛠 DevOps & Tooling:
 
-    Docker & Docker-Compose for containerized workflows
+    Docker + Docker Compose for smooth container life  
 
-    CI/CD pipelines with GitHub Actions
-
-    Ruff & Uv for fast, efficient Python development
+    Don’t be afraid — just GitHub Actions with CI and some pre-commit hooks, that’s it  
 
 📱 Mobile & Cross-Platform:
 
-    Experience with Dart & Flutter for modern, performant applications
+    Flutter — one codebase to rule both iOS and Android ✨
 
 
 ---
