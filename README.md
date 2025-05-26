@@ -23,7 +23,7 @@
 
     Don’t be afraid — just GitHub Actions with CI and some pre-commit hooks, that’s it  
 
-📱 Mobile & Cross-Platform:
+📱 Mobile:
 
     Flutter — one codebase to rule both iOS and Android ✨
 
