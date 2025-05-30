@@ -1,6 +1,5 @@
 # Bashar Hasan
 🚀 **Software Engineer** <br>
-🌍 Citizen of the world, but my heart will always belong to my homelands 💙💛 <br>
 ✨ I believe in making everything good and beautiful. <br>
 🐥 Interested in 📜 History, 📈 Economics and 🎧 Music <br>
 
