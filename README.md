@@ -35,10 +35,8 @@
 A web app that converts Arabic or English text into the ancient Phoenician script.
 
 - Supports both Arabic and English input  
-- Auto language detection & validation  
 - Built with **React**, **Vite**, **TailwindCSS**  
-- Inspired by the legacy of the seafaring Phoenicians  
-- Includes a modern nod to **Tyrian Purple** in its design  
+- **Averages 30 monthly visitors**  
 
 💬 *Built out of deep respect for our ancestors — preserving and celebrating cultural heritage through code.*
 
