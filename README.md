@@ -36,7 +36,7 @@ A web app that converts Arabic or English text into the ancient Phoenician scrip
 
 - Supports both Arabic and English input  
 - Built with **React**, **Vite**, **TailwindCSS**  
-- **Averages 30 monthly visitors**  
+- **Averages 50 monthly visitors**  
 
 💬 *Built out of deep respect for our ancestors — preserving and celebrating cultural heritage through code.*
 
