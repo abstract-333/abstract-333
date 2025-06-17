@@ -34,7 +34,6 @@
 🧭 **[Phoenician Transliteration Tool](https://abstract-333.github.io/phoenician-transliterator/)**  
 A web app that converts Arabic or English text into the ancient Phoenician script.
 
-- **Averages 50 monthly visitors**  
 - Supports both Arabic and English input  
 - Built with **React**, **Vite**, **TailwindCSS**  
 
