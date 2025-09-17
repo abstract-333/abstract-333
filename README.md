@@ -48,8 +48,4 @@ A web app that converts Arabic or English text into the ancient Phoenician scrip
 <a href="https://github.com/abstract-333">
 </a>
 
-<a href="https://github.com/abstract-333">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstract-333&layout=compact&theme=tokyonight&repo=github-readme-stats" />
-</a>
-
 [![Top Langs](https://komarev.com/ghpvc/?username=abstract-333)](https://github.com/anuraghazra/github-readme-stats)
