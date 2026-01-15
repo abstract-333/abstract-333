@@ -8,7 +8,8 @@
 
 💻 Backend Engineering:
 
-    I prioritize thorough testing, using Onion Architecture and DDD to align code with business logic—but only when the complexity justifies it.
+    I prioritize thorough testing, using Onion Architecture and DDD to align code with business logic.
+    !! But only when the complexity justifies it.
 
 
 📊 Databases:
