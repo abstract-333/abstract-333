@@ -1,7 +1,7 @@
 # Bashar Hasan
 🚀 **Software Engineer** <br>
 ✨ I believe in making everything good and beautiful. <br>
-🐥 Interested in 📜 History, 📈 Economics and 🎧 Music <br>
+🐥 Interested in 📜 History, 📈 Economics and 📖 Psychology <br>
 
 
 ## 🔥 R U L E S
