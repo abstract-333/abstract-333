@@ -8,9 +8,8 @@
 
 💻 Backend Engineering:
 
-    Add tests, implement TDD (yeah, it's tough on the backend — feels more frontend-y sometimes)
+    I prioritize thorough testing, using Onion Architecture and DDD to align code with business logic—but only when the complexity justifies it.
 
-    DDD for structuring complexity and aligning code with real-world logic
 
 📊 Databases:
 
