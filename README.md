@@ -4,29 +4,6 @@
 🐥 Interested in 📜 History, 📈 Economics and 📖 Psychology <br>
 
 
-## 🔥 R U L E S
-
-💻 Backend Engineering:
-
-    I prioritize thorough testing, using Onion Architecture and DDD to align code with business logic.
-    !! But only when the complexity justifies it.
-
-
-📊 Databases:
-
-    PostgreSQL & MongoDB — but hey, don’t go wild adding constraints and `NOT NULL` everywhere 😅
-
-🛠 DevOps & Tooling:
-
-    Docker + Docker Compose for smooth container life  
-
-    Don’t be afraid — just GitHub Actions with CI and some pre-commit hooks, that’s it  
-
-📱 Mobile:
-
-    Flutter — one codebase to rule both iOS and Android ✨
-
-
 ---
 
 ## 🧙‍♂️ Featured Project: Phoenician Transliteration Tool
@@ -37,7 +14,7 @@ A web app that converts Arabic or English text into the ancient Phoenician scrip
 - Supports both Arabic and English input  
 - Built with **React**, **Vite**, **TailwindCSS**  
 
-💬 *Built out of deep respect for our ancestors — preserving and celebrating cultural heritage through code.*
+💬 *Built out of deep respect for our ancestors, preserving and celebrating cultural heritage through code.*
 
 🔗 [Source Code](https://github.com/abstract-333/phoenician-transliterator)
 
