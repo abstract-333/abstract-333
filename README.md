@@ -4,8 +4,6 @@
 🐥 Interested in 📜 History, 📈 Economics and 📖 Psychology <br>
 
 
----
-
 ## 🧙‍♂️ Featured Project: Phoenician Transliteration Tool
 
 🧭 **[Phoenician Transliteration Tool](https://abstract-333.github.io/phoenician-transliterator/)**  
