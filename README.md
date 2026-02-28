@@ -18,8 +18,11 @@ A web app that converts Arabic or English text into the ancient Phoenician scrip
 
 **👁️ [Preview](https://abstract-333.github.io/phoenician-transliterator/)** | 🔗 [Source Code](https://github.com/abstract-333/phoenician-transliterator)
 
-## `XIII` DM me: bashar [dot] hasan [dot] me [at] proton [dot] me
-
+## 📧  DM me 
+```
+bashar [dot] hasan [dot] me [at] proton [dot] me
+```
+---
 
 ![My Skills Languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,dart&perline=5)
 
