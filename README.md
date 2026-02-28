@@ -1,10 +1,15 @@
 # 🌙 The 3 AM Architect
 
 ```
-Prose-level code. Product-level thinking. Human-level empathy
+Prose-level code. Product-level thinking. Human-level empathy.
 
-CS + Business + Poetry + Psychology → software that matters
+CS + Business + Poetry + Psychology → software that matters.
 ```
+
+### 🧠 Philosophy
+- Poetic when it can be  
+- Practical when it must be  
+- Valuable always
 
 ## 🧙‍♂️ Featured Projects:
 
