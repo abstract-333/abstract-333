@@ -1,18 +1,15 @@
-# Bashar Hasan
-🚀 **Software Engineer** <br>
-✨ I believe in making everything good and beautiful. <br>
-🐥 Interested in 📜 History, 📈 Economics and 📖 Psychology <br>
+# 🌙 The 3 AM Architect
 
+```
+Prose-level code. Product-level thinking. Human-level empathy
 
-## 🧙‍♂️ Featured Project: Phoenician Transliteration Tool
+CS + Business + Poetry + Psychology → software that matters
+```
+
+## 🧙‍♂️ Featured Projects:
 
 🧭 **[Phoenician Transliteration Tool](https://abstract-333.github.io/phoenician-transliterator/)**  
 A web app that converts Arabic or English text into the ancient Phoenician script.
-
-- Supports both Arabic and English input  
-- Built with **React**, **Vite**, **TailwindCSS**  
-
-💬 *Built out of deep respect for our ancestors, preserving and celebrating cultural heritage through code.*
 
 🔗 [Source Code](https://github.com/abstract-333/phoenician-transliterator)
 
