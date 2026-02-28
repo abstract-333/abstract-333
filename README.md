@@ -11,16 +11,20 @@ CS + Business + Poetry + Psychology → software that matters.
 - Practical when it must be  
 - Valuable always
 
-## 🧙‍♂️ Featured Projects:
+## `I` <small>Phoenician Transliteration Tool<small>
 
-🧭 **[Phoenician Transliteration Tool](https://abstract-333.github.io/phoenician-transliterator/)**  
 A web app that converts Arabic or English text into the ancient Phoenician script.
 
-🔗 [Source Code](https://github.com/abstract-333/phoenician-transliterator)
+**👁️ [Preview](https://abstract-333.github.io/phoenician-transliterator/)** | 🔗 [Source Code](https://github.com/abstract-333/phoenician-transliterator)
 
 ---
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,django,flutter,python,dart,java,cpp,postgresql,mysql,mariadb,redis,mongodb,sqlalchemy,git,githubactions,docker,nginx,opensource&perline=7)
+![My Skills Languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,dart&perline=5)
+
+![My Skills Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,django,arduino,flutter&perline=6)
+
+![My Skills DB](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,redis,mongodb&perline=5)
+
 <a href="https://github.com/abstract-333">
 </a>
