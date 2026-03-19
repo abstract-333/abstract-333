@@ -3,13 +3,8 @@
 ```
 Prose-level code. Product-level thinking. Human-level empathy.
 
-CS + Business + Poetry + Psychology → software that matters.
+CS + Business + Poetry + Psychology
 ```
-
-### 🧠 Philosophy
-- Poetic when it can be  
-- Practical when it must be  
-- Valuable always
 
 ## `I` Phoenician Transliteration Tool
 
