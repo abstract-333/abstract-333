@@ -1,11 +1,3 @@
-# 🌙 The 3 AM Architect
-
-```
-Prose-level code. Product-level thinking. Human-level empathy.
-
-CS + Business + Poetry + Psychology
-```
-
 ## `I` Phoenician Transliteration Tool
 
 A web app that converts Arabic or English text into the ancient Phoenician script.
@@ -16,14 +8,3 @@ A web app that converts Arabic or English text into the ancient Phoenician scrip
 # 📧 DM me 
 
 > bashar [dot] hasan [dot] me [at] proton [dot] me
-
----
-
-![My Skills Languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,dart&perline=5)
-
-![My Skills Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,litestar,django,arduino,flutter&perline=6)
-
-![My Skills DB](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,redis,mongodb&perline=5)
-
-<a href="https://github.com/abstract-333">
-</a>
